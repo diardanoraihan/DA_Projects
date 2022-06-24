@@ -1,1 +1,4 @@
 config.ini
+.ipynb_checkpoints/
+.jovianrc
+.DS_Store
